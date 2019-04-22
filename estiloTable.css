@@ -1,0 +1,51 @@
+
+table{
+	border: 1px solid;
+	font-family:verdana;
+	
+}
+
+table thead {	
+    background-color: #AAAFFF;
+}
+
+
+table tbody tr:nth-child(odd) {	
+    background-color: #CCC;
+}
+
+table tbody tr:nth-child(even) {
+    background-color: #FFF;
+}
+
+
+
+.foto
+{
+    height: 7.5em;
+    width: 8.125em;
+
+}
+
+body {
+	font: 100%;
+	font-family: helvetica, colibri, tahoma, sans-serif;
+    color: #333;
+}
+
+.logo
+{
+    position: relative;
+    float: right;
+    height: 10.5em;
+    width: 11.125em;
+}
+
+h1
+{
+    font: 300%;
+	font-family: Nyala, Arial;
+    color: green;
+    text-align: center;
+    font-size: 80px;
+}
